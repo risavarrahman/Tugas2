@@ -1,0 +1,121 @@
+.home:link, .home:visited {
+    font-size: 20px;
+    color: black;
+    padding-top: 18px;
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.home:hover, .home:active {
+    background-color: darkolivegreen;
+    transition: 0.2s;
+}
+
+.educ:link, .educ:visited{
+    font-size: 20px;
+    color: black;
+    padding-top: 18px;
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.educ:hover, .educ:active {
+    background-color: darkolivegreen;
+    transition: 0.2s;
+}
+
+.sche:link, .sche:visited{
+    font-size: 20px;
+    color: black;
+    padding-top: 18px;
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.sche:hover, .sche:active {
+    background-color: darkolivegreen;
+    transition: 0.2s;
+}
+
+.acti:link, .acti:visited{
+    font-size: 20px;
+    color: black;
+    padding-top: 18px;
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.acti:hover, .acti:active {
+    background-color: darkolivegreen;
+    transition: 0.2s;
+}
+
+.first:link, .first:visited{
+    font-size: 20px;
+    color: black;
+    padding-top: 18px;
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.first:hover, .first:active{
+    background-color: darkolivegreen;
+    transition: 0.2s;
+}
+
+body{
+    background-image: url('img/snowbg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.button {
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;    
+    width: 150px;
+    height: 100%;
+}
+
+.button span{   
+    text-transform: capitalize;
+    text-align: left;
+    box-sizing: border-box;
+    transition-property: none;
+}
+
+#header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+img{
+    width: 162px;
+    padding-left: 150px;
+}
+
+table{
+    padding-left: 312px;
+    padding-inline-start: 0px;
+    width: 20cm;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    grid-row-start: 160px;
+    background-color: white;
+}
